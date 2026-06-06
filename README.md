@@ -1,4 +1,3 @@
-# SQL_Interview_preparation
 # MySQL Concepts and Programs
 
 ## Overview
